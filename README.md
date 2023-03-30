@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello world, Hello Data 👋
+
+#### my introduction
+me = {
+      my profile : {'year of birth' : 1997.03.25, gender : male, hobby : [Baseball, reading book] },
+      strength : [statistical knowledge, communication skills, desire to learn]
+      Tool : [Python, mysql, Tableau]}
 
 <!--
 **DataResolvere/DataResolvere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
