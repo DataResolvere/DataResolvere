@@ -6,7 +6,7 @@ me = {<br>
 	*strength* : [statistical knowledge, communication skills, desire to learn],<br>
 	*Tool* : [Python, mysql, Tableau]<br>
 	}
-<br><br>about me site : [벨로그](https://velog.io/@xswer19)
+<br><br>about me site : [벨로그](https://velog.io/@xswer19), [notion](https://www.notion.so/Seon-Kyung-aea1c66aeb5f4adf8f200b4e345887d5)
 <!--
 **DataResolvere/DataResolvere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
