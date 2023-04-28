@@ -2,7 +2,7 @@
 
 #### my introduction
 me = {<br>
-	*my profile* : {'year of birth' : 1997.03.25, gender : male, hobby : [Baseball, reading book] },<br>
+	*my profile* : {year of birth : 1997.03.25, gender : male, hobby : [Baseball, reading book] },<br>
 	*strength* : [statistical knowledge, communication skills, desire to learn],<br>
 	*Tool* : [Python, mysql, Tableau]<br>
 	}
