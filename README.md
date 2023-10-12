@@ -1,11 +1,5 @@
 ### Hello world, Hello Data 👋
-<img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/>
-<img src="https://img.shields.io/badge/Mysql-white?style=flat&logo=Mysql&logoColor=##4479A1"/>
-<img src="https://img.shields.io/badge/Tehsorflow-black?style=flat&logo=Tensorflow&logoColor=#FF6F00"/>
-
-<img src="https://img.shields.io/badge/Tableau-white?style=flat&logo=Tableau&logoColor=###E97627"/>
-<img src="https://img.shields.io/badge/opencv-black?style=flat&logo=opencv&logoColor=###5C3EE8"/>
-<img src="https://img.shields.io/badge/scikitlearn-white?style=flat&logo=scikitlearn&logoColor=####F7931E"/>
+<img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Mysql-white?style=flat&logo=Mysql&logoColor=##4479A1"/<img src="https://img.shields.io/badge/Tehsorflow-black?style=flat&logo=Tensorflow&logoColor=#FF6F00"/><img src="https://img.shields.io/badge/Tableau-white?style=flat&logo=Tableau&logoColor=###E97627"/><img src="https://img.shields.io/badge/opencv-black?style=flat&logo=opencv&logoColor=###5C3EE8"/><img src="https://img.shields.io/badge/scikitlearn-white?style=flat&logo=scikitlearn&logoColor=####F7931E"/>
 
 <img src="https://img.shields.io/badge/notion-black?style=flat&logo=notion&logoColor=###000000"/>
 #### my introduction
