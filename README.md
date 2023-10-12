@@ -1,6 +1,7 @@
 ### Hello world, Hello Data 👋
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/>
-<img src="https://img.shields.io/badge/Tehsorflow-green?style=flat&logo=Tensorflow&logoColor=#FF6F00"/>
+<img src="https://img.shields.io/badge/Tehsorflow-black?style=flat&logo=Tensorflow&logoColor=#FF6F00"/>
+<img src="https://img.shields.io/badge/Mysql-black?style=flat&logo=Mysql&logoColor=##4479A1"/>
 
 #### my introduction
 me = {<br>
