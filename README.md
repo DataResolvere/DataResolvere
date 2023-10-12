@@ -1,5 +1,5 @@
 ### Hello world, Hello Data 👋
- [![Tech Blog Badge](http://img.shields.io/badge/-Python-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+<img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
 #### my introduction
 me = {<br>
