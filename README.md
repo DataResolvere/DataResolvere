@@ -1,6 +1,5 @@
 ### Hello world, Hello Data 👋
-<img src="https://img.shields.io/badge/JAVA-007396?
-          style=flat&logo=Java&logoColor=white"/>
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 
 #### my introduction
 me = {<br>
