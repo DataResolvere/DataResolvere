@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Tableau-white?style=flat&logo=Tableau&logoColor=###E97627"/>
 <img src="https://img.shields.io/badge/scikitlearn-white?style=flat&logo=scikitlearn&logoColor=####F7931E"/>
 <img src="https://img.shields.io/badge/opencv-black?style=flat&logo=opencv&logoColor=###5C3EE8"/>
+<img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=###000000"/>
 #### my introduction
 me = {<br>
 	*my profile* : {year of birth : 1997.03.25, gender : male, hobby : [Baseball, reading book] },<br>
