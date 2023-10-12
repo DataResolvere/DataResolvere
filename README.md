@@ -1,5 +1,5 @@
 ### Hello world, Hello Data 👋
-<img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=#3776AB"/>
 <img src="https://img.shields.io/badge/Tehsorflow-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
 #### my introduction
