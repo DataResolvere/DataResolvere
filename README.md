@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/>
 <img src="https://img.shields.io/badge/Tehsorflow-black?style=flat&logo=Tensorflow&logoColor=#FF6F00"/>
 <img src="https://img.shields.io/badge/Mysql-white?style=flat&logo=Mysql&logoColor=##4479A1"/>
-
+<img src="https://img.shields.io/badge/Tableau-white?style=flat&logo=Tableau&logoColor=###E97627"/>
 #### my introduction
 me = {<br>
 	*my profile* : {year of birth : 1997.03.25, gender : male, hobby : [Baseball, reading book] },<br>
